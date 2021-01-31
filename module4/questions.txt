@@ -1,0 +1,8 @@
+0. the minimal dimension is 3 and the maximum dimension is 9 so the board should be at least 3x3 and maximum 9x9
+1. The game's int board is represented by a 2d array
+2. the function greet() is called to greet player at game's start
+3. The functions that I need to implement are:
+- init
+- draw
+- move
+- won

@@ -1,0 +1,1 @@
+Code van Rivka VollebregtModule 1Mijn code was ge-reviewed door Liza. De veranderingen die ik heb aangebracht zijn: - Minder comments in greedy, de feedback was dat het overzichtelijker zou zijn als ik niet boven elke munt een comment zou zetten, maar boven alle munten 1 overkoepelende comment. - Na int main(void) hoeft geen spatie, dus die heb ik weggehaald.

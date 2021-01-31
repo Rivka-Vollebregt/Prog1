@@ -1,0 +1,16 @@
+Code van Rivka Vollebregt
+Module 4
+
+Mijn code was ge-reviewed door Liza Roelofsen. 
+
+De veranderingen die ik heb aangebracht staan hieronder.
+
+Filter:
+
+- In de regels 30 en 53-55 waren de formules te lang voor de regel dus deze heb ik op een volgende regel met indentation door laten lopen.
+- In de reflect functie heb ik de binnenste for-loop en while-loop gecombineerd om de code wat effici‘nter te maken.
+- In de blur functie heb ik Round veranderd naar roundf omdat ik met een float werkte en niet met double.
+
+Recover:
+- Ik heb de witregel in regel 24 weggehaald om consistent geen witregel voor de return error functie te zetten.
+- Ik had regel 51-54 drie keer afgebroken (dus elke stukje formule op een nieuwe regel), maar dit kon wat korter door de formule maar 1 keer af te breken dus dat heb ik veranderd.
